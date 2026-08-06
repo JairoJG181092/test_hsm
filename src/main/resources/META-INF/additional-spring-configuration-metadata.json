@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "hsm.realsec.provider.name",
+    "type": "java.lang.String",
+    "description": "Nombre del provider"
+  },
+  {
+    "name": "hsm.realsec.config.path",
+    "type": "java.lang.String",
+    "description": "Ruta del archivo config del HSM (Windows)"
+  },
+  {
+    "name": "hsm.realsec.type",
+    "type": "java.lang.String",
+    "description": "Tipo"
+  },
+  {
+    "name": "hsm.realsec.pin",
+    "type": "java.lang.String",
+    "description": "Pin para conectarse al HSM"
+  },
+  {
+    "name": "hsm.realsec.config.pathserver",
+    "type": "java.lang.String",
+    "description": "Ruta del archivo config del HSM (Server)"
+  },
+  {
+    "name": "jws.alg",
+    "type": "java.lang.String",
+    "description": "Algoritmo jws"
+  },
+  {
+    "name": "jws.cty",
+    "type": "java.lang.String",
+    "description": "jws cty'"
+  },
+  {
+    "name": "jws.iss",
+    "type": "java.lang.String",
+    "description": "jws iss"
+  },
+  {
+    "name": "jws.sub",
+    "type": "java.lang.String",
+    "description": "jws sub"
+  },
+  {
+    "name": "jwe.alg",
+    "type": "java.lang.String",
+    "description": "Algoritmo jwe"
+  },
+  {
+    "name": "jwe.enc",
+    "type": "java.lang.String",
+    "description": "jwe enc"
+  },
+  {
+    "name": "jwe.cty",
+    "type": "java.lang.String",
+    "description": "jwe cty"
+  }
+]}
